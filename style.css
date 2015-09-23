@@ -1,0 +1,40 @@
+html, body { margin:0; padding: 0; font-family: Verdana, sans-serif; color: #333333;}
+
+.container {
+  margin:       0;
+  padding:      0 0 0 25px;
+  max-width:    600px; !important
+}
+
+.bullet {
+  line-height: 35px;
+}
+
+.bullet code {
+  padding-left: 5px;
+}
+
+.bullet img {
+  width:            25px;
+  height:           25px;
+  margin:           auto;
+  display:          inline-block;
+  vertical-align:   middle;
+}
+
+a.bullet:link, a.bullet:visited, a.bullet:hover, a.bullet:active{
+  color: #333333;
+  text-decoration: none;
+}
+
+.name {
+  color: #244700;
+  padding: 25px 0 10px 0;
+  font-size: 2em;
+  font-weight: bold;
+}
+
+.skill-highlight {
+  color: #990000;
+  font-weight: bold;
+}
